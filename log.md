@@ -8,8 +8,14 @@
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/quoting-strings-with-single-quotes
 
-### Day 1: February 30, 2016 (Example 2)
+### Day 1: March 16, 2021
 
+**Today's Progress**: Setting up a laravel class project. Writing few routes, creating controllers, models and blade templets.
+
+**Thoughts**: Was challenging as it was my 1st laravel project.
+**Link(s) to work**: 
+
+### Day 1:March 16, 2021
 **Today's Progress**: 
 
 **Thoughts**:
