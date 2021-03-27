@@ -32,3 +32,15 @@
 **Thoughts**: was ok with few issues when doing eloquent(ORM).
 **Link(s) to work**: 
 
+### Day 1: March 19, 2021
+**Today's Progress**: Added like functionality to posts, with few security mesures such as middlewares (auth). 
+**Thoughts**: All good proud of myself.
+**Link(s) to work**: 
+
+
+### Day 1: March 19, 2021
+**Today's Progress**: 
+**Thoughts**:
+**Link(s) to work**: 
+
+
