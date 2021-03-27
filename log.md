@@ -82,6 +82,14 @@
 
 **Link(s) to work**:
 
+### Day 10: March 23, 2021
+
+**Today's Progress**: Did set up express server with few routes installed modules, created a class to add questions to a QUESTION bank configured package.json.
+
+**Thoughts**: A bit hard as i was new to most modules I used here to generate paragraphs and encrypt the questions.
+
+**Link(s) to work**:
+
 
 
 
