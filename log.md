@@ -90,6 +90,15 @@
 
 **Link(s) to work**:
 
+### Day 11: March 24, 2021
+
+**Today's Progress**: Started a React course udemy initial setups creating and running the react app 
+
+**Thoughts**: Mind blowing.
+
+**Link(s) to work**:
+
+
 
 
 
