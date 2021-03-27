@@ -28,7 +28,7 @@
 **Link(s) to work**: https://github.com/philipwaluisachi/Blog.git
 
 ### Day 1: March 19, 2021
-**Today's Progress**:
-**Thoughts**:
+**Today's Progress**: Did work on displaying the posts and pagination of the posts. 
+**Thoughts**: was ok with few issues when doing eloquent(ORM).
 **Link(s) to work**: 
 
