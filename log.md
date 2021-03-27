@@ -13,34 +13,48 @@
 **Today's Progress**: Setting up a laravel class project. Writing few routes, creating controllers, models and blade templets.
 
 **Thoughts**: Was challenging as it was my 1st laravel project.
+
 **Link(s) to work**: 
 
 ### Day 1: March 17, 2021
+
 **Today's Progress**: A continuation of the Laravel project its a simple blog.Did migrations and authentication of users.
 
 **Thoughts**: Had few issues with inbuild auth() methods.
+
 **Link(s) to work**: 
 
 ### Day 1: March 18, 2021
+
 **Today's Progress**:  Worked on adding posts to the database, retriving the posts from the database created a git repo and pushed to it
 
 **Thoughts**: was a problem  a bit but managed to figure it out.
+
 **Link(s) to work**: https://github.com/philipwaluisachi/Blog.git
 
 ### Day 1: March 19, 2021
+
 **Today's Progress**: Did work on displaying the posts and pagination of the posts. 
+
 **Thoughts**: was ok with few issues when doing eloquent(ORM).
+
 **Link(s) to work**: 
 
 ### Day 1: March 19, 2021
+
 **Today's Progress**: Added like functionality to posts, with few security mesures such as middlewares (auth). 
+
 **Thoughts**: All good proud of myself.
+
 **Link(s) to work**: 
 
 
 ### Day 1: March 19, 2021
-**Today's Progress**: 
-**Thoughts**:
+
+**Today's Progress**: I added modules to unlike and delete posts.
+
+**Thoughts**: Was all good except ensuring a user can only delete their posts.
+
 **Link(s) to work**: 
 
 
