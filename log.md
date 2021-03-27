@@ -16,7 +16,7 @@
 **Link(s) to work**: 
 
 ### Day 1:March 16, 2021
-**Today's Progress**: 
+**Today's Progress**: A continuation of the Laravel project its a simple blog.Did migrations and authentication of users.
 
-**Thoughts**:
+**Thoughts**: Had few issues with inbuild auth() methods.
 **Link(s) to work**: 
