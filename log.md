@@ -66,11 +66,11 @@
 
 **Link(s) to work**: 
 
-### Day 7: March 20, 2021
+### Day 8: March 21, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Completed project by creating separate views for creating posts and home page for all posts.
 
-**Thoughts**: 
+**Thoughts**: Finally this project is ready.
 
 **Link(s) to work**:
 
