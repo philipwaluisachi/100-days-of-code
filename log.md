@@ -74,5 +74,14 @@
 
 **Link(s) to work**:
 
+### Day 9: March 22, 2021
+
+**Today's Progress**: Worked on a clients node js examination generation and distribution application .
+
+**Thoughts**: Challenging.
+
+**Link(s) to work**:
+
+
 
 
