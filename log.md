@@ -92,13 +92,35 @@
 
 ### Day 11: March 24, 2021
 
-**Today's Progress**: Started a React course udemy initial setups creating and running the react app 
+**Today's Progress**: Started a React course udemy initial setups creating and running the react app.
 
 **Thoughts**: Mind blowing.
 
 **Link(s) to work**:
 
+### Day 12: March 25, 2021
 
+**Today's Progress**: Created few react components.
+
+**Thoughts**: Tricky a bit.
+
+**Link(s) to work**:
+
+### Day 13: March 26, 2021
+
+**Today's Progress**: Creating screens for the app.
+
+**Thoughts**:Starting to get the whole  react app development.
+
+**Link(s) to work**:
+
+### Day 14: March 27, 2021
+
+**Today's Progress**: Started a course about hosting a website on Tor netwok, created few web pages for testing and did configurations for tor and was able to get an onion site.
+
+**Thoughts**: So happy running my own application on tor network.
+
+**Link(s) to work**:
 
 
 
